@@ -1,5 +1,3 @@
-# face-Recognition
-
 # OpenCV Face Recognition in Python
 
 ### Prerequisites
